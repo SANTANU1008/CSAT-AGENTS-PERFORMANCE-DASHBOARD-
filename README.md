@@ -2,7 +2,7 @@
 An interactive Customer Satisfaction (CSAT) Performance Dashboard built to monitor, analyze, and visualize the performance of customer service agents.  The dashboards provides a centralized view of key CSAT metrics, enabling users to understand agent-level performance, identify trends, and gain actionable insights into customer satisfaction.
 
 # Dashboard Preview
-https://drive.google.com/drive/u/2/folders/1OAVQtjwGh-KBiaqP90egaQQBHJYCVytE  
+https://drive.google.com/file/d/1vs8uuI765HLg-1jUOlkdivRcm2uQu1KA/view?usp=sharing  
 
 # Key Features
 ## Agent-wise CSAT Performance: 
